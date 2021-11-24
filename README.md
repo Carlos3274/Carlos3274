@@ -23,7 +23,7 @@
 ##
 ### Bio - Portfolio 💼
   
-<a href="https://bio-carlos.vercel.app/" target="_blank">
+<a href="https://bio-seven.vercel.app/" target="_blank">
    <img src="https://img.icons8.com/dusk/50/000000/contract-job.png"/>
 </a> 
   
