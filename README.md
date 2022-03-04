@@ -1,5 +1,5 @@
 ### Olá, eu sou José Carlos👋
-- 🔭 Estou no 4º semestre de Ciência da Computação
+- 🔭 Estou no 5º semestre de Ciência da Computação
 - 🌱 Hoje estou estudando HTML, CSS3 e banco de dados
 ##
 
