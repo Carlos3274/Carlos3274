@@ -1,6 +1,6 @@
 ### Olá, eu sou José Carlos👋
 - 🔭 Estou no 5º semestre de Ciência da Computação
-- 🌱 Hoje estou estudando HTML, CSS3 e banco de dados
+- 🌱 Hoje estou estudando React e banco de dados
 ##
 
 ### Principais linguagens e ferramentas 🛠️ 
