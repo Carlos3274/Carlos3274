@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on NDS<br>👯 I’m looking to collaborate on Intranet<br>🤝 I’m looking for help with Web Assembly<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about JavaScript<br>⚡ I love recursive functions
+# Hey There, I'm José Carlos!!
 
+## Some facts about me 👨🏻‍💻
+
+- 🔭 I’m currently working on NDS
+
+- 👯 I’m looking to collaborate on Intranet
+
+- 🤝 I’m looking for help with Web Assembly
+
+- 🌱 I’m currently learning ReactJS
+
+- 💬 Ask me about JavaScript
+
+-  📫 How to reach me: araujopontesjosecarlos@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_carlos.araujo) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zecapontes) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585981165513) 
