@@ -1,4 +1,4 @@
-# Hey There, I'm José Carlos!!
+# Hey There, I'm José Carlos 👋
 
 ## Some facts about me 👨🏻‍💻
 
