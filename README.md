@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on NDS
 
-- 👯 I’m looking to collaborate on Intranet
-
 - 🤝 I’m looking for help with Web Assembly
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Rust
 
 - 💬 Ask me about JavaScript
 
