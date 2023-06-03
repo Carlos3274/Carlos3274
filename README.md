@@ -10,7 +10,7 @@
 
 - 💬 Ask me about JavaScript
 
--  📫 How to reach me: araujopontesjosecarlos@gmail.com
+-  📫 How to reach me: jcpontes.dev@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_carlos.araujo) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zecapontes) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585981165513) 
