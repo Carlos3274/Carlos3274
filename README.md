@@ -2,11 +2,11 @@
 
 ## Some facts about me 👨🏻‍💻
 
-- 🔭 I’m currently working on NDS
+- 🔭 I’m currently working on IFCE
 
 - 🤝 I’m looking for help with Web Assembly
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C# and .NET
 
 - 💬 Ask me about JavaScript
 
